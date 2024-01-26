@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+header
+{font-family: 'Playfair Display'; font-size: 100px; text-align: center; color: rgb(253, 0, 0); }
+body
+{background-color: rgb(98, 185, 255); display: flex; text-align: center; font-size: 30 px; margin: 10 cm; font-family: Arial, Helvetica, sans-serif;}
+display: grid;
