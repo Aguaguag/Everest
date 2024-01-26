@@ -1,4 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 .Name { font-size: 50pt; text-align: center; font-family: Playfair Display; color: red;}
 .Desc { text-align: center; font-size: 20pt}
-body{background-color: lightblue;}
+.body{background-color: lightblue;}
